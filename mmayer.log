@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.15)  5 JAN 2022 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.15)  11 JAN 2022 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -990,97 +990,75 @@ Package biblatex Info: ... file 'mmayer.bbl' found.
 Package biblatex Info: Reference section=0 on input line 77.
 Package biblatex Info: Reference segment=0 on input line 77.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 118.
+(Font)              scaled to size 24.88pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 118.
+(Font)              scaled to size 24.88pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 118.
+(Font)              scaled to size 12.0pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 118.
+(Font)              scaled to size 12.0pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 118.
+(Font)              scaled to size 8.0pt on input line 119.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 118.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 118.
+(Font)              scaled to size 8.0pt on input line 119.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 119.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 118.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 119.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 118.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 119.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 118.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 119.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <8> not available
-(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 118.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 118.
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 119.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 119.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 118.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 119.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 118.
+(Font)              <7> on input line 119.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 118.
+(Font)              <5> on input line 119.
 <me.jpeg, id=20, 803.0pt x 803.0pt>
 File: me.jpeg Graphic file (type jpg)
 <use me.jpeg>
-Package pdftex.def Info: me.jpeg  used on input line 118.
+Package pdftex.def Info: me.jpeg  used on input line 119.
 (pdftex.def)             Requested size: 802.99805pt x 802.99805pt.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 130.
+(Font)              scaled to size 17.28pt on input line 131.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 130.
+(Font)              scaled to size 17.28pt on input line 131.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
+(Font)              scaled to size 10.0pt on input line 133.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 132.
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 134.
+(Font)              scaled to size 9.0pt on input line 133.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 135.
  (/usr/share/texlive/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 134.
-
-
-Package biblatex Warning: Type 'book' not found on input line 206.
-
-
-LaTeX Warning: Empty bibliography on input line 206.
-
+(Font)              scaled to size 9.0pt on input line 135.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 210.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 214.
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-Overfull \hbox (1.36266pt too wide) in paragraph at lines 214--214
-\T1/lato-TLF/m/n/10 [Christo-pher Iliffe], Xie, Y., ... Folkesson, J., et al. (2020). A cyber- 
- []
-
-
-Overfull \hbox (5.99449pt too wide) in paragraph at lines 267--269
-[][]  []  []  
- []
-
-
-Overfull \hbox (6.8445pt too wide) in paragraph at lines 270--273
-[][]  [] 
- []
-
-
-Overfull \hbox (17.84944pt too wide) in paragraph at lines 270--273
-[]  []  
+(Font)              scaled to size 10.0pt on input line 216.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 220.
+ (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
+Overfull \hbox (0.7295pt too wide) in paragraph at lines 282--283
+[][]  []  
  []
 
 [1
 
  </home/cisprague/Code/vitae/me.jpeg>]
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 336.
+(Font)              scaled to size 9.0pt on input line 338.
  [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 346.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 346.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 356.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
  (/home/cisprague/Code/vitae/mmayer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 346.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 346.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
 Package rerunfilecheck Info: File `mmayer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'mmayer.run.xml'.
@@ -1088,17 +1066,17 @@ Package logreq Info: Writing requests to 'mmayer.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39717 strings out of 481239
- 763518 string characters out of 5920377
- 1416978 words of memory out of 5000000
- 54321 multiletter control sequences out of 15000+600000
- 825506 words of font info for 61 fonts, out of 8000000 for 9000
+ 39720 strings out of 481239
+ 763595 string characters out of 5920377
+ 1416968 words of memory out of 5000000
+ 54322 multiletter control sequences out of 15000+600000
+ 825917 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,101p,1158b,3986s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on /home/cisprague/Code/vitae/mmayer.pdf (2 pages, 279559 bytes).
+Output written on /home/cisprague/Code/vitae/mmayer.pdf (2 pages, 279900 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 

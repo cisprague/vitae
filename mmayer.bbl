@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{sprague2018adding}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ebd3acb81e2d857e368ec17c18bec591}{%
+           family={{Ö}gren},
+           familyi={Ö\bibinitperiod},
+           given={Petter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{fullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{bibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorbibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authornamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorfullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{arXiv preprint arXiv:1809.10283}
+      \field{title}{Adding neural network controllers to behavior trees without destroying performance guarantees}
+      \true{nocite}
+    \endentry
     \entry{ogren2021behavior}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ebd3acb81e2d857e368ec17c18bec591}{%
@@ -27,22 +55,19 @@
            given={Petter},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=2,uniquepart=given,hash=b1a8983b5323e178225766c617283fa5}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima I},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Annual Reviews}%
       }
-      \strng{namehash}{69fc92dae0a04f086d79705a7cd225c2}
-      \strng{fullhash}{69fc92dae0a04f086d79705a7cd225c2}
-      \strng{bibnamehash}{69fc92dae0a04f086d79705a7cd225c2}
-      \strng{authorbibnamehash}{69fc92dae0a04f086d79705a7cd225c2}
-      \strng{authornamehash}{69fc92dae0a04f086d79705a7cd225c2}
-      \strng{authorfullhash}{69fc92dae0a04f086d79705a7cd225c2}
+      \strng{namehash}{9176dff7ce7417726e3e4fb67a7e4768}
+      \strng{fullhash}{9176dff7ce7417726e3e4fb67a7e4768}
+      \strng{bibnamehash}{9176dff7ce7417726e3e4fb67a7e4768}
+      \strng{authorbibnamehash}{9176dff7ce7417726e3e4fb67a7e4768}
+      \strng{authornamehash}{9176dff7ce7417726e3e4fb67a7e4768}
+      \strng{authorfullhash}{9176dff7ce7417726e3e4fb67a7e4768}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -58,12 +83,9 @@
     \endentry
     \entry{sprague2021continuous}{article}{}
       \name{author}{2}{}{%
-        {{un=2,uniquepart=given,hash=b1a8983b5323e178225766c617283fa5}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima I},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=ebd3acb81e2d857e368ec17c18bec591}{%
            family={{Ö}gren},
            familyi={Ö\bibinitperiod},
@@ -74,12 +96,13 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
-      \strng{fullhash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
-      \strng{bibnamehash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
-      \strng{authorbibnamehash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
-      \strng{authornamehash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
-      \strng{authorfullhash}{e0da25dc1312cd5c9ad2fd43ee2c952f}
+      \strng{namehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{fullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{bibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorbibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authornamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorfullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -101,12 +124,12 @@
            given={Sriharsha},
            giveni={S\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=859fe56fb60b52ffc37cbc266a5e140f}{%
+        {{un=1,uniquepart=given,hash=859fe56fb60b52ffc37cbc266a5e140f}{%
            family={Torroba},
            familyi={T\bibinitperiod},
            given={Ignacio},
            giveni={I\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=709ebf502547ef9533916517abcdba59}{%
            family={{Ö}zkahraman},
            familyi={Ö\bibinitperiod},
@@ -119,12 +142,9 @@
            given={Nils},
            giveni={N\bibinitperiod},
            givenun=0}}%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=85a4cc60320e00ec9ed308e42a8f8d19}{%
            family={Xie},
            familyi={X\bibinitperiod},
@@ -160,11 +180,11 @@
         {IEEE}%
       }
       \strng{namehash}{ead605ebc5982935adb6d5379b3048ed}
-      \strng{fullhash}{20285d843c8a43bd589e5e8e6668dd48}
-      \strng{bibnamehash}{bfc84a9bb0afa896eaf150eaae71a051}
-      \strng{authorbibnamehash}{bfc84a9bb0afa896eaf150eaae71a051}
+      \strng{fullhash}{b9a9e65f1d3765c57b39194a0f24bc61}
+      \strng{bibnamehash}{25d07040ea8f26cbdcdff093f3da165f}
+      \strng{authorbibnamehash}{25d07040ea8f26cbdcdff093f3da165f}
       \strng{authornamehash}{ead605ebc5982935adb6d5379b3048ed}
-      \strng{authorfullhash}{20285d843c8a43bd589e5e8e6668dd48}
+      \strng{authorfullhash}{b9a9e65f1d3765c57b39194a0f24bc61}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -173,7 +193,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2020 IEEE/OES Autonomous Underwater Vehicles Symposium (AUV)(50043)}
-      \field{title}{A cyber-physical system for hydrobatic auvs: system integration and field demonstration}
+      \field{title}{A cyber-physical system for hydrobatic AUVs: system integration and field demonstration}
       \field{year}{2020}
       \true{nocite}
       \field{pages}{1\bibrangedash 8}
@@ -181,12 +201,9 @@
     \endentry
     \entry{sprague2020learning}{inproceedings}{}
       \name{author}{2}{}{%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=ebd3acb81e2d857e368ec17c18bec591}{%
            family={{Ö}gren},
            familyi={Ö\bibinitperiod},
@@ -197,13 +214,13 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{fullhash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{bibnamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authorbibnamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authornamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authorfullhash}{cbfe71912225d68027e1be7b0326cc3f}
-      \field{extraname}{1}
+      \strng{namehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{fullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{bibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorbibnamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authornamehash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \strng{authorfullhash}{7ea68f72a0a69f47bcbd8556b6b749b6}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -219,18 +236,15 @@
     \endentry
     \entry{torroba2020pointnetkl}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=859fe56fb60b52ffc37cbc266a5e140f}{%
+        {{un=1,uniquepart=given,hash=bc4805d564b5d8f38b06f4272764ebcb}{%
            family={Torroba},
            familyi={T\bibinitperiod},
-           given={Ignacio},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=0}}%
+           given={Ignacio\bibnamedelima *},
+           giveni={I\bibinitperiod\bibinitdelim *\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=444aaaa887b3307eae4789df9117d1bb}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.*}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=36e4bafe3939c7f1c01644b677124036}{%
            family={Bore},
            familyi={B\bibinitperiod},
@@ -247,12 +261,12 @@
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{fbc6fa1cb0421a8c8e8da57a7d2a8d00}
-      \strng{fullhash}{66fa8051a0b1bb623d1f4dcf8a0d78ca}
-      \strng{bibnamehash}{66fa8051a0b1bb623d1f4dcf8a0d78ca}
-      \strng{authorbibnamehash}{66fa8051a0b1bb623d1f4dcf8a0d78ca}
-      \strng{authornamehash}{fbc6fa1cb0421a8c8e8da57a7d2a8d00}
-      \strng{authorfullhash}{66fa8051a0b1bb623d1f4dcf8a0d78ca}
+      \strng{namehash}{d870a1eac9a9db87102ddf602b6f5b47}
+      \strng{fullhash}{9bb0c0bf441b2117837bea5644adec44}
+      \strng{bibnamehash}{9bb0c0bf441b2117837bea5644adec44}
+      \strng{authorbibnamehash}{9bb0c0bf441b2117837bea5644adec44}
+      \strng{authornamehash}{d870a1eac9a9db87102ddf602b6f5b47}
+      \strng{authorfullhash}{9bb0c0bf441b2117837bea5644adec44}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -261,6 +275,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Robotics and Automation Letters}
+      \field{note}{\textbf{*Equal contribution}}
       \field{number}{3}
       \field{title}{PointNetKL: Deep Inference for GICP Covariance Estimation in Bathymetric SLAM}
       \field{volume}{5}
@@ -269,7 +284,7 @@
       \field{pages}{4078\bibrangedash 4085}
       \range{pages}{8}
     \endentry
-    \entry{izzo2019machine}{incollection}{}
+    \entry{izzo2019machine}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=877562dadfdad676dd1a70eb21f3556e}{%
            family={Izzo},
@@ -277,12 +292,9 @@
            given={Dario},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=b57efed4e5fe2d7ed36e2eb19544388b}{%
            family={Tailor},
            familyi={T\bibinitperiod},
@@ -294,11 +306,11 @@
         {Springer, Cham}%
       }
       \strng{namehash}{73ef4cae47b7dc18ddaa6a0ac14151d1}
-      \strng{fullhash}{ee141d7ac84d35f95e0549989349539e}
-      \strng{bibnamehash}{ee141d7ac84d35f95e0549989349539e}
-      \strng{authorbibnamehash}{ee141d7ac84d35f95e0549989349539e}
+      \strng{fullhash}{d0b3118c90d137aebd4a65b24fcfc2dc}
+      \strng{bibnamehash}{d0b3118c90d137aebd4a65b24fcfc2dc}
+      \strng{authorbibnamehash}{d0b3118c90d137aebd4a65b24fcfc2dc}
       \strng{authornamehash}{73ef4cae47b7dc18ddaa6a0ac14151d1}
-      \strng{authorfullhash}{ee141d7ac84d35f95e0549989349539e}
+      \strng{authorfullhash}{d0b3118c90d137aebd4a65b24fcfc2dc}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -313,47 +325,11 @@
       \field{pages}{191\bibrangedash 210}
       \range{pages}{20}
     \endentry
-    \entry{sprague2018adding}{article}{}
-      \name{author}{2}{}{%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
-        {{un=0,uniquepart=base,hash=ebd3acb81e2d857e368ec17c18bec591}{%
-           family={{Ö}gren},
-           familyi={Ö\bibinitperiod},
-           given={Petter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{fullhash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{bibnamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authorbibnamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authornamehash}{cbfe71912225d68027e1be7b0326cc3f}
-      \strng{authorfullhash}{cbfe71912225d68027e1be7b0326cc3f}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:1809.10283}
-      \field{title}{Adding neural network controllers to behavior trees without destroying performance guarantees}
-      \field{year}{2018}
-      \true{nocite}
-    \endentry
     \entry{sprague2018improving}{inproceedings}{}
       \name{author}{6}{}{%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=709ebf502547ef9533916517abcdba59}{%
            family={{Ö}zkahraman},
            familyi={Ö\bibinitperiod},
@@ -388,12 +364,12 @@
       \list{organization}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{42425c17da2f75e30508bd66f69b729a}
-      \strng{fullhash}{68fb9c5faf5895e56b4985150fbc57c6}
-      \strng{bibnamehash}{68fb9c5faf5895e56b4985150fbc57c6}
-      \strng{authorbibnamehash}{68fb9c5faf5895e56b4985150fbc57c6}
-      \strng{authornamehash}{42425c17da2f75e30508bd66f69b729a}
-      \strng{authorfullhash}{68fb9c5faf5895e56b4985150fbc57c6}
+      \strng{namehash}{9d9df20f00d1dace69f86d5b3b35ae10}
+      \strng{fullhash}{153b9f234a63eddde2b7ec25aea9e436}
+      \strng{bibnamehash}{153b9f234a63eddde2b7ec25aea9e436}
+      \strng{authorbibnamehash}{153b9f234a63eddde2b7ec25aea9e436}
+      \strng{authornamehash}{9d9df20f00d1dace69f86d5b3b35ae10}
+      \strng{authorfullhash}{153b9f234a63eddde2b7ec25aea9e436}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -409,22 +385,19 @@
     \endentry
     \entry{sprague2017towards}{thesis}{}
       \name{author}{1}{}{%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Rensselaer Polytechnic Institute}%
       }
-      \strng{namehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{fullhash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{bibnamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authorbibnamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authornamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authorfullhash}{6827147a3f7a0f35c6b74773571c0b91}
+      \strng{namehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{fullhash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{bibnamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authorbibnamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authornamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authorfullhash}{8e09e8769ebe3f40cc97a080dd202b59}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
@@ -439,22 +412,19 @@
     \endentry
     \entry{sprague2016modelling}{inproceedings}{}
       \name{author}{1}{}{%
-        {{un=2,uniquepart=given,hash=6827147a3f7a0f35c6b74773571c0b91}{%
-           family={Sprague},
-           familyi={S\bibinitperiod},
-           given={Christopher\bibnamedelima Iliffe},
-           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
-           givenun=2}}%
+        {{un=0,uniquepart=base,hash=8e09e8769ebe3f40cc97a080dd202b59}{%
+           family={\textbf{Sprague,\bibnamedelimb Christopher\bibnamedelimb I.}},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
       }
       \list{organization}{1}{%
         {European Space Agency}%
       }
-      \strng{namehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{fullhash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{bibnamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authorbibnamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authornamehash}{6827147a3f7a0f35c6b74773571c0b91}
-      \strng{authorfullhash}{6827147a3f7a0f35c6b74773571c0b91}
+      \strng{namehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{fullhash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{bibnamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authorbibnamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authornamehash}{8e09e8769ebe3f40cc97a080dd202b59}
+      \strng{authorfullhash}{8e09e8769ebe3f40cc97a080dd202b59}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}

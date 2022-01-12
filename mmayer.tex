@@ -42,7 +42,7 @@
 \definecolor{SlateGrey}{HTML}{2E2E2E}
 \definecolor{LightGrey}{HTML}{666666}
 % \colorlet{name}{black}
-% \colorlet{tagline}{PastelRed}
+\colorlet{tagline}{VividPurple}
 \colorlet{heading}{VividPurple}
 \colorlet{headingrule}{VividPurple}
 % \colorlet{subheading}{PastelRed}
@@ -86,9 +86,10 @@
   % You can add your own with \printinfo{symbol}{detail}
   \email{sprague@kth.se}
   \phone{+46 073 080 7541}
-  \mailaddress{Lindstedtsvägen 24, 114 28}
-  \location{Stockholm, SE}
-%   \homepage{marissamayr.tumblr.com}
+  % \mailaddress{Lindstedtsvägen 24, 114 28}
+  % \location{Stockholm, Sweden}
+  % \homepage{marissamayr.tumblr.com}
+  \printinfo{\faFlag}{American | British | Swedish Residency}
 \\
 \printinfo{\faGraduationCap }{cisprague}[https://scholar.google.com/citations?user=3HsccBAAAAAJ&hl=en]
   \twitter{cisprague}
@@ -131,25 +132,30 @@
 
 \cvevent{Researcher}{KTH Royal Institute of Technology | Robotics, Perception, and Learning Department}{Dec 2017 --  June 2022}{Stockholm, SE}
 \begin{itemize}
-\item Made contributions at the intersection of artificial intelligence, control theory, and machine learning (adv. Petter \"Ogren and John Folkesson).
-\item Implemented planning and control algorithms on an in-house built autonomous underwater vehicle with ROS.
+\item Published research (100+ citations) in the intersections of control theory, machine learning, perception, and planning (adv. Petter \"Ogren and John Folkesson).
+\item Developed planning algorithms for multiple AUV scenarios and implemented them with ROS.
+\item Lead workshops and presented research at conferences and seminars.
+\item Presented robotic demonstrations to stakeholders on behalf of the Swedish Maritime Robotics Centre.
 \item Supervised multiple M.Sc. students to the completion of their theses.
+\item Developed and presented robotic planning assignments in a course of 200+ students for 4 semesters.
+\item Held help sessions in robotics and machine learning courses.
+\item Amplified research visibility with media outreach and social media.
+% \item Funded by the Swedish Maritime Robotics Centre.
 \end{itemize}
 
 \divider
 
-\cvevent{Autonomous Underwater Vehicle Assistant}{University of Tasmania | Institute for Marine and Antarctic Studies}{Dec 2019 -- Feb 2020}{Thwaites Glacier, Antarctica}
+\cvevent{AUV Assistant}{University of Tasmania | Institute for Marine and Antarctic Studies}{Dec 2019 -- Feb 2020}{Amundsen Sea, West Antarctica}
 \begin{itemize}
-\item Assisted in the deployment of the Nupiri Muka AUV in Western Antarctica
-for under-ice data collection (adv. Peter King).
-\item Assisted in the recover of oceanographic moorings. 
+\item Helped deploy the Nupiri Muka AUV near Thwaites glacier for under-ice data collection during the Korean Polar Research Institute's Winter 2019-2020 Antarctic expedition (adv. Peter King).
+\item Helped recover Gothenburg University's oceanographic moorings. 
 \end{itemize}
 
 \divider
 
 \cvevent{Researcher}{European Space Agency | Advanced Concepts Team}{Sep 2017 -- Nov 2017}{Noordwijk aan Zee, NL}
 \begin{itemize}
-  \item Made contributions to spacecraft trajectory optimisation with machine learning and optimal control (adv. Dario Izzo).
+  \item Published research at the intersection of spacecraft trajectory optimisation and machine learning (adv. Dario Izzo).
 \end{itemize}
 
 \divider
@@ -164,7 +170,7 @@ for under-ice data collection (adv. Peter King).
 
 \cvevent{Learning Assistant}{Rensselaer Polytechnic Institute}{Aug 2016 -- May 2017}{Troy, NY, USA}
 \begin{itemize}
-  \item Held private consultation sessions and created a variety of workshops for study skills, time management, and stress management in order to promote academic excellence and encourage student involvement.
+  \item Held consultation sessions and created a variety of workshops for study skills, time management, and stress management in order to promote academic excellence and encourage student involvement.
 \end{itemize}
 
 \divider
@@ -203,7 +209,7 @@ for under-ice data collection (adv. Peter King).
 
 \nocite{*}
 
-\printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=book]
+% \printbibliography[heading=pubtype,title={\printinfo{\faBook}{Books}},type=incollection]
 
 % \divider
 
@@ -211,7 +217,11 @@ for under-ice data collection (adv. Peter King).
 
 \divider
 
-\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Conference Proceedings}},type=inproceedings]
+\printbibliography[heading=pubtype,title={\printinfo{\faUsers}{Proceedings}},type=inproceedings]
+
+% \divider
+
+% \printbibliography[heading=pubtype,title={\printinfo{\faFile*[regular]}{Preprints}}, type=preprint]
 
 %% Switch to the right column. This will now automatically move to the second
 %% page if the content is too long.
@@ -260,18 +270,19 @@ for under-ice data collection (adv. Peter King).
 \cvtag{GPyTorch} 
 \cvtag{Python}
 \cvtag{ROS}
+\cvtag{Matlab}
+\cvtag{Mathematica}
 
 \divider\smallskip
 
 \textbf{Theory} \\\smallskip
-\cvtag{Optimal control}
-\cvtag{Stability}
-\cvtag{Order theory} \\
-\cvtag{Hybrid dynamical systems}
-\cvtag{Behavior trees}
 \cvtag{Machine learning}
+\cvtag{Optimal control}
+\\
+\cvtag{Hybrid dynamical systems}
+\cvtag{Order theory} \\
+\cvtag{Planning} \cvtag{Behavior trees} \\
 \cvtag{Physics-informed learning} \\
-\cvtag{Fluid/structural mechanics}
 
 
 
@@ -280,25 +291,19 @@ for under-ice data collection (adv. Peter King).
 
 \cvsection{Education}
 
-\cvevent{Ph.D.\ in Robotics}{KTH Royal Institute of Technology}{Dec 2017 -- June 2022 (expected)}{}
-\begin{itemize}
-  \item Project on Robust, flexible and transparent mission planning and execution for autonomous underwater vehicles.
-  \item Funded by Swedish Maritime Robotics Centre (SMaRC).
-\end{itemize}
+\cvevent{Ph.D.\ in Robotics}{KTH Royal Institute of Technology}{Dec 2017 -- June 2022}{}
+% \begin{itemize}
+%   \item Project on Robust, flexible and transparent mission planning and execution for autonomous underwater vehicles.
+%   \item Funded by Swedish Maritime Robotics Centre (SMaRC).
+% \end{itemize}
 
 \divider
 
-\cvevent{M.S.\ in Aerospace Engineering}{Rensselaer Polytechnic Institute}{May 2016 -- May 2017}{}
-\begin{itemize}
-  \item Magna Cum Laude honours (adv. Kurt Anderson).
-\end{itemize}
+\cvevent{M.S.\ in Aerospace Engineering \\\footnotesize{Magna Cum Laude}}{Rensselaer Polytechnic Institute}{May 2016 -- May 2017}{}
 
 \divider
 
-\cvevent{B.S.\ in Aerospace Engineering}{Rensselaer Polytechnic Institute}{Aug 2013 -- May 2016}{}
-\begin{itemize}
-  \item Cum Laude honours.
-\end{itemize}
+\cvevent{B.S.\ in Aerospace Engineering \\\footnotesize{Cum Laude}}{Rensselaer Polytechnic Institute}{Aug 2013 -- May 2016}{}
 
 \cvsection{Grants}
 
@@ -310,23 +315,20 @@ for under-ice data collection (adv. Peter King).
 % \end{itemize}
 \divider
 
-\cvevent{Congress-Bundestag Youth Exchange (CBYX) for Young Professionals}{German Bundestag and U.S. Department of State}{2015}{Declined}
+% \cvevent{Congress-Bundestag Youth Exchange (CBYX) for Young Professionals}{German Bundestag and U.S. Department of State}{2015}{Declined}
 
-\divider
+% \divider
 
-\cvevent{NASA Fellowship}{The Henry Foundation, Inc.}{2015}{\$4000}
+\cvevent{NASA APL Fellowship}{The Henry Foundation, Inc.}{2015}{\$4000}
 % \begin{itemize}
 % \item Led the \$5 billion acquisition of the company with Verizon -- the entity which believed most in the immense value Yahoo!\ has created
 % \end{itemize}
 
+\newpage
 \cvsection{Languages}
 \cvskill{English}{5}
-
 \cvskill{Swedish}{2}
-% \divider
-
 \cvskill{Spanish}{1}
-% \divider
 
 % \newpage
 
@@ -340,6 +342,14 @@ for under-ice data collection (adv. Peter King).
 
 \cvref{Prof.\ John Folkesson}{KTH Royal Institute of Technology}{john@kth.se}
 {Address Line 1\\Address line 2}
+
+\cvsection{Press}
+\begin{itemize}
+  \item Researchers celebrate Antarctic under ice voyages of underwater vehicle (IMAS UTAS)
+  \item A Shipwreck, 500 Years Old, Appears on the Baltic Seabed (New York Times)
+  \item Using behavior trees to improve the modularity of AUV control systems (Tech Xplore)
+  \item Rensselaer Graduate Students Successful in Garnering Summer Fellowships (RPI)
+\end{itemize}
 
 \end{paracol}
 

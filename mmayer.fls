@@ -441,6 +441,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-TS1-TLF.
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-TS1-TLF--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-T1-TLF.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/typoland/lato/Lato-Regular-T1-TLF.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Regular-T1-TLF--base.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/typoland/lato/Lato-Bold-T1-TLF.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
